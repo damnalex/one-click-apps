@@ -50,5 +50,5 @@ caproverOneClickApp:
         start: Odoo is an open source product CRM
         end: Odoo is deployed and the dashboard is available from http://$$cap_appname.$$cap_root_domain.
     isOfficial: true
-    description: Odoo, formerly known as OpenERP, is a suite of open-source business apps written in Python and released under the AGPL license.
+    description: Odoo, formerly known as OpenERP, is a suite of open-source business apps written in Python and released under the LGPL license.
     documentation: https://hub.docker.com/_/odoo?tab=description
